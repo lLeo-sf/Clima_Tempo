@@ -1,0 +1,45 @@
+.atual {
+
+    width: 45vw;
+    height: 50vh;
+    margin: 5%;
+    padding: 2%;
+
+    background-color: linear-gradient(145deg, #f0f0f0, #cacaca);
+    box-shadow:  20px 20px 60px #bebebe,
+                 -20px -20px 60px #ffffff;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+
+input {
+    width: 35vw;
+    height: 40px;
+    padding-left: 15px;
+
+    border: none;
+    border-radius: 8px;
+    background: rgba( 255, 255, 255, 0.30 );
+    box-shadow: 0 8px 32px 0 #bebebe;
+    
+    outline: none;
+    font-size: 1rem;
+    color: #181818;
+}
+
+
+@media only screen and (max-width: 1280px) {
+    .atual{
+        height: 60vh;
+        width: 90vw;
+    }
+
+    input {
+        width: 80vw;
+    }
+}
