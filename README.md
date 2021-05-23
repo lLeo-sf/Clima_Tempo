@@ -27,3 +27,5 @@
 **Execução:** 
 
 - Execute *yarn start* na raiz do diretório ‘app/’
+
+<img src="clima.png" alt="screenshot"/>
