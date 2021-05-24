@@ -27,3 +27,7 @@
 **Execução:** 
 
 - Execute *yarn start* na raiz do diretório ‘app/’
+
+**Deploy (sem histórico):**
+- [https://climaa.vercel.app/](https://climaa.vercel.app/)
+<img src="clima.png" alt="screenshot"/>
