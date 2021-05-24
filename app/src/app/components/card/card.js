@@ -5,7 +5,7 @@ import moment from 'moment/moment.js'
 const styleAtual = {
     card: {
         width: '100%',
-        height: '35vh',
+        height: '40vh',
 
         display: 'flex',
         justifyContent: 'center',
@@ -97,7 +97,7 @@ const styleHistorico = {
 
     cidade: {
         color: 'white',
-        fontSize: '2rem',
+        fontSize: '1.5rem',
         letterSpacing: '0.2rem',
         fontWeight: 'bold',
     },

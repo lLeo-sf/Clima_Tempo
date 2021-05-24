@@ -11,3 +11,16 @@ export default class Weather {
         return data;
     }
 }
+
+apiWeath.interceptors.response.use(
+    (response) => {
+        return response;
+    },
+    (error) => {
+        if (error.response.status === 404) {
+            alert("Cidade não encontrada")
+        }
+
+        return Promise.reject(error);
+    },
+);
