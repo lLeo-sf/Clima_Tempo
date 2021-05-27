@@ -3,12 +3,13 @@
 **Dependências:** 
 
 - Postgresql - <https://www.postgresql.org/>
+- pgAdmin - <https://www.pgadmin.org/>
 - Node.js -  <https://nodejs.org/en/download/>
 - Yarn - *npm i  -g yarn*
 - Concurrently - *npm i -g concurrently*
 
 
-**Banco de Dados:** 
+**Banco de Dados (pgAdmin):** 
 
 - Criar um banco de dados no postgres nomeado “teste”
 - Clica com o botão direito do mouse em cima do banco e ir até restore (restaurar)
