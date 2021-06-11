@@ -19,7 +19,7 @@
 
 **Instalação:**
 
-- Fazer o clone do projeto – *git clone [https://github.com/lLeo-sf/teste.git*](https://github.com/lLeo-sf/teste.git)*
+- Fazer o clone do projeto 
 - Abrir um terminar no caminho do projeto
 - Entrar na pasta do projeto – *cd app*
 - Instalar o projeto – *yarn install*
